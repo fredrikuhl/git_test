@@ -6,3 +6,9 @@ for i in range(0, 10000):
     time.sleep(1)
 
 print("I cant believe you waited this long!")
+
+print("""
+( . Y . )
+ )  .  (
+(   v   )
+""")
